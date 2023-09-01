@@ -1,3 +1,8 @@
+//// entropy_tool - Derived from Salvum slm_entropy
+// Takes filepath as argument and spits out Shannon with visual
+//// Author: Sina Tashakkori, QVLx Labs
+// https://www.qvlx.com/
+
 use std::env;
 use entropy::Entropy;
 use std::fs::File;
